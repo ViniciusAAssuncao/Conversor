@@ -4,4 +4,4 @@ Um conversor de moedas simples desenvolvido em uma única interface para torná-
 
 # ATENÇÃO!
 
-Este projeto faz parte de uma rotina de estudos pessoal! Portanto, a chave da API que utilizei está a amostra no código, **NÃO FAÇA ISSO!**, o que foi apenas para demonstração, este projeto não será utilizado em um contexto profissional, o importante é sua funcionalidade no front-end, objetivo do qual tive êxito.
+Este projeto faz parte de uma rotina de estudos pessoal! Portanto, a chave da API que utilizei está a amostra no código, **NÃO FAÇA ISSO!**, o que fiz fora apenas para demonstração, este projeto não será utilizado em um contexto profissional, o importante é sua funcionalidade no front-end, objetivo do qual tive êxito.
